@@ -1,0 +1,28 @@
+{
+    "jiraToGitlab": {
+        "Priority": {
+            "1 - Highest": "High",
+            "2 - High": "Normal",
+            "3 - Regular": "Low",
+            "4 - Low": "Low",
+            "5 - Lowest": "Low"
+        },
+        "fieldsTranslation": {
+            "Priority": "Priority",
+            "Issue Type": "Type",
+            "Status (Gitlab)": "Status"
+        },
+        "Issue Type": {
+            "Bug": "Bug",
+            "Defect": "Defect",
+            "Improvement": "Improvement",
+            "": "Task"
+        },
+        "user": {
+            "jira-user": "gitlab-user"
+        },
+        "assignees": {
+            "Full Assignee Name": 0
+        }
+    }
+}

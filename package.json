@@ -1,0 +1,11 @@
+{
+    "name": "jira-to-gitlab-migration-helper",
+    "version": "0.0.0",
+    "description": "Helper for the migration from Jira to Gitlab Issues. This was built in less than a day and will never be run again. It's in no way, shape or form prime code.",
+    "main": "migrate.js",
+    "dependencies": {
+      "xmlhttprequest": "^1.8.0"
+    },
+    "license": "ISC"
+  }
+  
